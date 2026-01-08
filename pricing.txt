@@ -1,4 +1,5 @@
 Default discount
-discount 20%
+discount 12%
+
 
 
